@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+.idea/**/workspace.xml
+.idea/**/tasks.xml
+.idea/**/usage.statistics.xml
+.idea/**/mypy.xml
+.idea/**/misc.xml
+.idea/**/dictionaries
+.idea/**/shelf
+
+# .idea
+__pycache__
+*.pyc
+*.pyo
